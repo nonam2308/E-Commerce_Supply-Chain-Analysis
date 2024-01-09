@@ -1,3 +1,5 @@
+![Plotly Graph](plot.png)
+
 E-Commerce_Supply-Chain-Analysis
 Dataset Source: https://drive.google.com/file/d/1cxpXRT8zNEyiTIsN7ocOyQOLnAFx21s_/view?usp=drive_link (Donated on 29-07-2023)
 
